@@ -1,0 +1,2 @@
+database = "profession.db"
+token = " "
